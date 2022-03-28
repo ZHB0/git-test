@@ -14,5 +14,6 @@ public class gitTest {
         System.out.println("你好");
         System.out.println("hot-fix test");
         System.out.println("我是来pull练习的");
+        System.out.println("再次尝试上传github");
     }
 }
